@@ -1,0 +1,45 @@
+# ========================================
+# Visual Studio & IDE files
+# ========================================
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.db
+*.opendb
+
+# ========================================
+# Build folders
+# ========================================
+bin/
+obj/
+Debug/
+Release/
+
+# ========================================
+# Logs and temporary files
+# ========================================
+*.log
+*.tmp
+*.bak
+
+# ========================================
+# OS-specific files
+# ========================================
+*.DS_Store
+Thumbs.db
+
+# ========================================
+# RageCoop & ScriptHookVDotNet DLLs
+# ========================================
+# Optional: ignore local DLLs if you don't want them tracked
+Libs/Server/*.dll
+Libs/Client/*.dll
+
+# ========================================
+# Other temp or local project files
+# ========================================
+*.swp
+*.swo
+*.userprefs
